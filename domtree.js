@@ -2,7 +2,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ '老婆','郑熙悦','Merry Christmas','Merry Christmas','Merry Christmas','Merry Christmas','小笨妞','12月25','猪猪','Merry Christmas','Happy Holidays', ' 猪猪','12月25','老婆','Merry Christmas','老婆','Merry Christmas','郑熙悦' ];
+const greetings = [ '老婆','郑熙悦','Merry Christmas','记得吃药药','多喝水','Happy Holidays','小笨妞','12月25','猪猪','不要生气啦','圣诞节快乐', ' 猪猪','老婆','抱抱','小笨妞 大笨猪','老婆','Merry Christmas','郑熙悦' ];
 let tree = document.querySelector( '.tree' ),
 	treeRotation = 0;
  
